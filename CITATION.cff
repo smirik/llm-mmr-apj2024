@@ -1,0 +1,9 @@
+cff-version: 1.0.1
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Evgeny
+  given-names: Smirnov
+orcid: https://orcid.org/0000-0001-8264-8668
+title: Fast, simple, and accurate time series analysis with Large Language Models: an example of mean-motion resonances identification
+version: v1.0.1
+date-released: 2024-04-03
